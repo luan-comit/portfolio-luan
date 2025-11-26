@@ -7,7 +7,7 @@ const about = {
   role: 'Full Stack Developer',
   description:
     'Passionate about building state-of-the-art applications, skilled in both frontend and backend, familiar with different domains including digital banking/fintech, telecom infrastructure, IT managed service, cloud computing, large-scale network and system operations. Open minded in new IT tech-stacks, process-oriented, service-oriented, problem-solving, teamwork.',
-  resume: 'https://www.dropbox.com/scl/fi/xxa00bm83jkwzvhpl4ve6/Viet-Thanh-Luan-Le-Resume.pdf?rlkey=wi3gd40exzmb86p3vg25z19ha&raw=1',
+  resume: 'https://www.dropbox.com/scl/fi/571z06zruhh35bu2s0ma2/Viet-Thanh-Luan-Le-Resume.pdf?rlkey=4fy4lwbl406xeqc65xusjih6m&st=oksx49ur&raw=1',
   social: {
     linkedin: 'https://www.linkedin.com/in/luan-le-1b1a40220/',
     github: 'https://github.com/luan-comit',
